@@ -1,0 +1,11 @@
+button:focus {
+  outline: none !important;
+}
+
+.contact-form {
+  width: 300px;
+}
+
+.contact.card {
+  min-width: 250px;
+}
